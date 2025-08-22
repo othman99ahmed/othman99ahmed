@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Andrew Baker 👋
 
+Machine Learning engineer passionate about deep learning and NLP.
 
-**othman99ahmed/othman99ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- Scikit-learn
+- TensorFlow
+- Python
+- PyTorch
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+## 📫 Contact
+- GitHub: https://github.com/othman99ahmed
+- Email: othman99ahmed@example.com
